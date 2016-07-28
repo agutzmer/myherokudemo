@@ -1,0 +1,34 @@
+
+
+
+
+ body {
+	font-size: 18px;
+	
+	color: #ebebeb;
+	background: #333;
+}
+
+#main-header {
+    	text-align: center;	
+	padding: 20px;
+	margin-bottom: 20px;
+	font-size: 18px;	
+	color: black;
+	background: white;
+}
+
+
+
+
+
+#footer1 {
+       text-align:center;
+       font-size: 18px;
+       padding: 20px;
+       margin-bottom: 20px;
+       font-size: 18px;	
+       color: black;
+       background: white;
+
+}
